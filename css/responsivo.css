@@ -1,0 +1,104 @@
+@media only screen and (max-width: 420px) {
+
+img{
+width:100%;
+
+}
+
+body{
+
+	background-color: #000;
+	height: 100%;
+}
+
+
+header {
+
+	background-color: #000;
+	height: 100%;
+}
+
+
+
+h1 {
+
+	color: #44bd32;
+	font:bold;
+}
+
+h2{
+
+	color:#44bd32;
+	
+}
+
+section{
+	height: 100%;
+	background-color: #000;
+}
+
+footer{
+
+	background-color: #000;
+	height: 100%;
+}
+
+
+h5 {
+
+	color:#44bd32;
+
+}
+}
+
+@media only screen and (max-width: 900px){
+
+img{
+width:100%;
+
+}
+
+body{
+
+	background-color: #000;
+	height: 100%
+}
+
+
+header {
+
+	background-color: #000;
+	height: 100%;
+}
+
+h1 {
+
+	color: #44bd32;
+	font:bold;
+}
+
+h2{
+
+	color:#44bd32;
+	
+}
+
+section{
+	height: 100%;
+	background-color: #000;
+}
+
+footer{
+
+	background-color: #000;
+	height: 100%;
+}
+
+
+h5 {
+
+	color:#44bd32;
+
+}
+
+}

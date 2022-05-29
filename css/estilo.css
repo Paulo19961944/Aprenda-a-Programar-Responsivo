@@ -1,0 +1,45 @@
+img{
+width:100%;
+
+}
+
+body{
+
+	background-color: #000;
+}
+
+
+header {
+
+	background-color: #000;
+	height: max-height;
+}
+
+h1 {
+
+	color: #44bd32;
+	font:bold;
+}
+
+h2{
+
+	color:#44bd32;
+	
+}
+
+section{
+	height: 100%;
+	background-color: #000;
+}
+
+footer{
+
+	background-color: #000;
+}
+
+
+h5 {
+
+	color:#44bd32;
+
+}
