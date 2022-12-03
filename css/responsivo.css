@@ -37,12 +37,14 @@ h1 {
 	color: #44bd32;
 	font:bold;
 	padding-left:20px
+	padding-right:20px;
 }
 
 h2{
 
 	color:#44bd32;
 	padding-left:20px
+	padding-right: 20px;
 	
 }
 
@@ -71,6 +73,7 @@ h5 {
 
 	color:#44bd32;
 	padding-left:20px
+	padding-right: 20px;
 
 }
 }
@@ -110,12 +113,14 @@ h1 {
 	color: #44bd32;
 	font:bold;
 	padding-left:20px
+	padding-right: 20px;
 }
 
 h2{
 
 	color:#44bd32;
 	padding-left:20px
+	padding-right: 20px;
 	
 }
 
@@ -145,6 +150,7 @@ h5 {
 
 	color:#44bd32;
 	padding-left:20px
+	padding-right: 20px;
 }
 
 }
