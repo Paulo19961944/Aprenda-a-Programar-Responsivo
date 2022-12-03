@@ -4,11 +4,6 @@ width:100%;
 }
 
 
-p {
-
-	padding-left: 20px;
-	
-}
 
 
 body{
@@ -50,7 +45,11 @@ section{
 }
 
 
+section p {
 
+	padding-left: 20px;
+	
+}
 
 
 
