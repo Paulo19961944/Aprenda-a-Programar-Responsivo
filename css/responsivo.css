@@ -7,6 +7,14 @@ width:100%;
 
 	
 	
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 20px;
+}
+	
+
+	
 	
 body{
 
@@ -74,7 +82,11 @@ width:100%;
 }
 	
 	
-
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 20px;
+}
 	
 	
 
